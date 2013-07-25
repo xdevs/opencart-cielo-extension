@@ -1,7 +1,7 @@
 opencart-cielo-extension
 ========================
 
-A Cielo extension integration for Open Cart
+Atenção: este módulo foi baixado em http://azsnake.com.br/tutoriais-opencart/149-modulo-gratis-cielo-visa-mastercard-para-opencart-1-5-x.html. Esta no Github para fins de versionamento.
 
 Informações:
 ************
